@@ -1,3 +1,5 @@
+![Rapyd](./rapyd-cover.png)
+
 ## Rapyd
 A little project about rapid note taking.
 
