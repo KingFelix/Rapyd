@@ -11,7 +11,7 @@ Just copy and paste the following link into your address bar and save it as a bo
 ### Use
 Click the Rapyd bookmark in your toolbar and start typing! That's it! 
 
-## Rapyd Tips
+### Tips
 
 Here are some tips to help you make the most of Rapyd 👍🏻
 
@@ -37,11 +37,6 @@ Or you can use numbers and `.` to create ordered lists:
 
 By pressing `ctrl + cmd + space` on Mac or `Windows key + .` on Windows, you can open the dialog box that allows you to insert emojis inside the text that are useful for formatting your notes 📝
 
-### Dividers
-
-You can use `-` to create dividers for different sections of your notes:
-
-`-----------------------------------------------------------------------`
 
 ### Commands
 
