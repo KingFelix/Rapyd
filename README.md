@@ -1,6 +1,6 @@
 ![Rapyd](./rapyd-cover.png)
 
-## Rapyd
+# Rapyd
 A little project about rapid note taking.
 
 ### Install
@@ -41,10 +41,10 @@ You can use `---` to create dividers for different sections of your notes:
 
 ### Hierarchies
 
-You can use blank lines, capital letters or simple "-" to provide hierarchies for the different section headings:
+You can use blank lines, capital letters or simple `-` to provide hierarchies for the different section headings:
 
-> TITLE 1
-> --------
+`TITLE 1`
+`--------`
 
 `TITLE 2`
 
