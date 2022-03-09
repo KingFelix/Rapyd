@@ -31,7 +31,7 @@ Or you can use numbers and `.` to create ordered lists:
 
 ### Emoji
 
-By pressing `ctrl + cmd + space` on Mac or `Windows key +.` on Windows, you can open the dialog box that allows you to insert emojis inside the text that are useful for formatting your notes 📝
+By pressing `ctrl + cmd + space` on Mac or `Windows key + .` on Windows, you can open the dialog box that allows you to insert emojis inside the text that are useful for formatting your notes 📝
 
 ### Dividers
 
