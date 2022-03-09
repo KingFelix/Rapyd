@@ -39,17 +39,6 @@ You can use `---` to create dividers for different sections of your notes:
 
 `--------------------------------------------------`
 
-### Hierarchies
-
-You can use blank lines, capital letters or simple `-` to provide hierarchies for the different section headings:
-
-`TITLE 1`
-`--------`
-
-`TITLE 2`
-
-`Title 3`
-
 ### Commands
 
 You can use the browser's native commands to perform a series of quick operations:
