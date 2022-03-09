@@ -19,15 +19,15 @@ Here are some tips to help you make the most of Rapyd 👍🏻
 
 A simple `-` can be used to create simple unordered lists:
 
-- item
-- item
-- item
+> - item
+> - item
+> - item
 
 Or you can use numbers and `.` to create ordered lists:
 
-1. item
-2. item
-3. item
+> 1. item
+> 2. item
+> 3. item
 
 ### Emoji
 
@@ -43,11 +43,11 @@ You can use `-` to create dividers for different sections of your notes:
 
 You can use the browser's native commands to perform a series of quick operations:
 
-🖨 `cmd + p` or `ctrl + p` to print or save as pdf
+🖨  `cmd + p` or `ctrl + p` to print or save as pdf
 
-💾 `cmd + s` or `ctrl + s` to save in HTML format
+💾  `cmd + s` or `ctrl + s` to save in HTML format
 
-🔍 `cmd + f`or  `ctrl + f` to search for something within the note
+🔍  `cmd + f`or  `ctrl + f` to search for something within the note
 
 ### Organization
 
