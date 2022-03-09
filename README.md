@@ -35,9 +35,9 @@ By pressing `ctrl + cmd + space` on Mac or `Windows key +.` on Windows, you can 
 
 ### Dividers
 
-You can use `---` to create dividers for different sections of your notes:
+You can use `-` to create dividers for different sections of your notes:
 
-`--------------------------------------------------`
+`-----------------------------------------------------------------------`
 
 ### Commands
 
