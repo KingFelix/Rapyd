@@ -58,3 +58,7 @@ You can use the browser's native commands to perform a series of quick operation
 There are many ways you could use Rapyd. For example, when you create a note you can insert the current date in the first line and save the notes in HTML format based on the day.
 
 You can create a folder to save the various notes in HTML format. Opening the file you will find the note perfectly editable. After making a change, save the note with the same name in the folder to avoid duplicates.
+
+### Example
+
+[https://kingfelix.github.io/Rapyd/rapyd-example.html](https://kingfelix.github.io/Rapyd/rapyd-example.html)
