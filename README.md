@@ -43,8 +43,8 @@ You can use `---` to create dividers for different sections of your notes:
 
 You can use blank lines, capital letters or simple "-" to provide hierarchies for the different section headings:
 
-`TITLE 1
---------`
+> TITLE 1
+> --------
 
 `TITLE 2`
 
@@ -60,7 +60,7 @@ You can use the browser's native commands to perform a series of quick operation
 
 🔍 `cmd + f`or  `ctrl + f` to search for something within the note
 
-###Organization
+### Organization
 
 There are many ways you could use Rapyd. For example, when you create a note you can insert the current date in the first line and save the notes in HTML format based on the day.
 
