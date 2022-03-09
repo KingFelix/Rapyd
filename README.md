@@ -20,13 +20,17 @@ Here are some tips to help you make the most of Rapyd 👍🏻
 A simple `-` can be used to create simple unordered lists:
 
 `- item`
+
 `- item`
+
 `- item`
 
 Or you can use numbers and `.` to create ordered lists:
 
 `1. item`
+
 `2. item`
+
 `3. item`
 
 ### Emoji
